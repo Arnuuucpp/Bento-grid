@@ -3,7 +3,7 @@
 A short description of what this project does.
 
 ## 🚀 Live Demo
-https://your-vercel-link.vercel.app/
+https://bentogrid-eosin.vercel.app/
 
 ## 🛠️ Tech Used
 - HTML
@@ -20,4 +20,5 @@ https://your-vercel-link.vercel.app/
 - Hover effects
 
 ## 📸 Preview
-(Add here)
+<img width="1366" height="610" alt="image" src="https://github.com/user-attachments/assets/d89c481f-68cb-443f-bd04-54f5184fe9ff" />
+
